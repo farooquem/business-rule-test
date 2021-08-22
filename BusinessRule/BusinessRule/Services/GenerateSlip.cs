@@ -6,7 +6,7 @@ namespace BusinessRule.Services
 {
     public class GenerateSlip : IProcess
     {
-        public string Process(Context context)
+        public string Process(UserContext context)
         {
             return "Slip generated";
         }

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BusinessRule.Services
+﻿namespace BusinessRule.Services
 {
     public class UpgradeMembership : IProcess
     {
-        public string Process(Context context)
+        public string Process(UserContext context)
         {
             return "Membership upgraded";
         }

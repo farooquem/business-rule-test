@@ -6,7 +6,7 @@ namespace BusinessRule.Services
 {
     public class DuplicatePackagingSlip : IProcess
     {
-        public string Process(Context context)
+        public string Process(UserContext context)
         {
             return "Duplicate packaging slip";
         }

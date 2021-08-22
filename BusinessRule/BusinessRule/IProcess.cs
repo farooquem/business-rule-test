@@ -4,6 +4,6 @@ namespace BusinessRule
 {
     public interface IProcess
     {
-        string Process(Context context);
+        string Process(UserContext context);
     }
 }

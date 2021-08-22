@@ -6,7 +6,7 @@ namespace BusinessRule.Services
 {
     public class ActivateMembership : IProcess
     {
-        public string Process(Context context)
+        public string Process(UserContext context)
         {
            return "Membership activated";
         }

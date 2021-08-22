@@ -2,9 +2,16 @@
 {
     public class ConfirmMembership : IProcess
     {
-        public string Process(Context context)
+        public ConfirmMembership(bool upgraded)
         {
-            return "Email has been sent to owner";
+            Upgraded = upgraded;
+        }
+
+        public bool Upgraded { get; }
+
+        public string Process(UserContext context)
+        {
+            return $"{(Upgraded == true ? "Upgrade" : "Activation")} email has been sent to owner";
         }
     }
 }
