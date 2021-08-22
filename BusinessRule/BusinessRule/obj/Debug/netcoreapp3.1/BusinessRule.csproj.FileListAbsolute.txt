@@ -1,0 +1,13 @@
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.exe
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.deps.json
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.runtimeconfig.json
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.runtimeconfig.dev.json
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.dll
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\bin\Debug\netcoreapp3.1\BusinessRule.pdb
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.csproj.AssemblyReference.cache
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.AssemblyInfoInputs.cache
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.AssemblyInfo.cs
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.csproj.CoreCompileInputs.cache
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.dll
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.pdb
+C:\Users\MansooriFa\Documents\GitHub\business-rule-test\BusinessRule\BusinessRule\obj\Debug\netcoreapp3.1\BusinessRule.genruntimeconfig.cache
